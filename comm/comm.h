@@ -8,6 +8,8 @@ typedef char          s8;
 typedef unsigned char u8;
 typedef int           s32;
 typedef unsigned int  u32;
+typedef float         f32;
+typedef double        f64;
 
 // index data type
 typedef int       idxtype;
